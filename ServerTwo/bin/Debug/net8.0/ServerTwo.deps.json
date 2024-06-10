@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ServerTwo/1.0.0": {
+        "dependencies": {
+          "NetworkTransportProtocol": "1.0.0"
+        },
+        "runtime": {
+          "ServerTwo.dll": {}
+        }
+      },
+      "NetworkTransportProtocol/1.0.0": {
+        "dependencies": {
+          "TransportLib": "1.0.0"
+        },
+        "runtime": {
+          "NetworkTransportProtocol.dll": {}
+        }
+      },
+      "TransportLib/1.0.0": {
+        "runtime": {
+          "TransportLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServerTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkTransportProtocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TransportLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

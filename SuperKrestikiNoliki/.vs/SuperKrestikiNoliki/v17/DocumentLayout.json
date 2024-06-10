@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\SuperKrestikiNoliki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E496-E072-48B0-AA84-74B53D50ABDB}|..\\Clientik\\Clientik.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\clientik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E496-E072-48B0-AA84-74B53D50ABDB}|..\\Clientik\\Clientik.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\clientik\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31353BFA-E2FF-4877-B513-0EA82BEFED0C}|..\\TransportLib\\TransportLib.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\transportlib\\commandtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31353BFA-E2FF-4877-B513-0EA82BEFED0C}|..\\TransportLib\\TransportLib.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\transportlib\\ireceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E496-E072-48B0-AA84-74B53D50ABDB}|..\\Clientik\\Clientik.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\clientik\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542750F9-76CF-4474-BFC7-042FB7168618}|..\\ServerTwo\\ServerTwo.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\servertwo\\playingfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542750F9-76CF-4474-BFC7-042FB7168618}|..\\ServerTwo\\ServerTwo.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\servertwo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C89F228-87C5-487B-98BB-4AD4B6738805}|..\\NetworkTransportProtocol\\NetworkTransportProtocol.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\networktransportprotocol\\networksender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C89F228-87C5-487B-98BB-4AD4B6738805}|..\\NetworkTransportProtocol\\NetworkTransportProtocol.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\networktransportprotocol\\networkreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31353BFA-E2FF-4877-B513-0EA82BEFED0C}|..\\TransportLib\\TransportLib.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\transportlib\\isend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863472B-BF75-45D4-84A9-30B410082300}|SuperKrestikiNoliki.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\superkrestikinoliki\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863472B-BF75-45D4-84A9-30B410082300}|SuperKrestikiNoliki.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E496-E072-48B0-AA84-74B53D50ABDB}|..\\Clientik\\Clientik.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\clientik\\clientik.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542750F9-76CF-4474-BFC7-042FB7168618}|..\\ServerTwo\\ServerTwo.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\servertwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542750F9-76CF-4474-BFC7-042FB7168618}|..\\ServerTwo\\ServerTwo.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\servertwo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863472B-BF75-45D4-84A9-30B410082300}|SuperKrestikiNoliki.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\superkrestikinoliki\\playingfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863472B-BF75-45D4-84A9-30B410082300}|SuperKrestikiNoliki.csproj|solutionrelative:playingfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863472B-BF75-45D4-84A9-30B410082300}|SuperKrestikiNoliki.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\superkrestikinoliki\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863472B-BF75-45D4-84A9-30B410082300}|SuperKrestikiNoliki.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E496-E072-48B0-AA84-74B53D50ABDB}|..\\Clientik\\Clientik.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\clientik\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E496-E072-48B0-AA84-74B53D50ABDB}|..\\Clientik\\Clientik.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\clientik\\model\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C89F228-87C5-487B-98BB-4AD4B6738805}|..\\NetworkTransportProtocol\\NetworkTransportProtocol.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\networktransportprotocol\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E496-E072-48B0-AA84-74B53D50ABDB}|..\\Clientik\\Clientik.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\clientik\\viewmodel\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D0E496-E072-48B0-AA84-74B53D50ABDB}|..\\Clientik\\Clientik.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\clientik\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C89F228-87C5-487B-98BB-4AD4B6738805}|..\\NetworkTransportProtocol\\NetworkTransportProtocol.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\networktransportprotocol\\networktransportprotocol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Clientik\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\App.xaml.cs",
+              "RelativeToolTip": "..\\Clientik\\App.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAxwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:25:37.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReceive.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\TransportLib\\IReceive.cs",
+              "RelativeDocumentMoniker": "..\\TransportLib\\IReceive.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\TransportLib\\IReceive.cs",
+              "RelativeToolTip": "..\\TransportLib\\IReceive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:19:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandType.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\TransportLib\\CommandType.cs",
+              "RelativeDocumentMoniker": "..\\TransportLib\\CommandType.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\TransportLib\\CommandType.cs",
+              "RelativeToolTip": "..\\TransportLib\\CommandType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:46:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayingField.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\ServerTwo\\PlayingField.cs",
+              "RelativeDocumentMoniker": "..\\ServerTwo\\PlayingField.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\ServerTwo\\PlayingField.cs",
+              "RelativeToolTip": "..\\ServerTwo\\PlayingField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:30:44.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\ServerTwo\\Game.cs",
+              "RelativeDocumentMoniker": "..\\ServerTwo\\Game.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\ServerTwo\\Game.cs",
+              "RelativeToolTip": "..\\ServerTwo\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:15:13.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISend.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\TransportLib\\ISend.cs",
+              "RelativeDocumentMoniker": "..\\TransportLib\\ISend.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\TransportLib\\ISend.cs",
+              "RelativeToolTip": "..\\TransportLib\\ISend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:42:21.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NetworkReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\NetworkTransportProtocol\\NetworkReceiver.cs",
+              "RelativeDocumentMoniker": "..\\NetworkTransportProtocol\\NetworkReceiver.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\NetworkTransportProtocol\\NetworkReceiver.cs",
+              "RelativeToolTip": "..\\NetworkTransportProtocol\\NetworkReceiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:24:24.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NetworkSender.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\NetworkTransportProtocol\\NetworkSender.cs",
+              "RelativeDocumentMoniker": "..\\NetworkTransportProtocol\\NetworkSender.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\NetworkTransportProtocol\\NetworkSender.cs",
+              "RelativeToolTip": "..\\NetworkTransportProtocol\\NetworkSender.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:09:50.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Clientik\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "..\\Clientik\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:35:57.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Clientik.csproj",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\Clientik.csproj",
+              "RelativeDocumentMoniker": "..\\Clientik\\Clientik.csproj",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\Clientik.csproj",
+              "RelativeToolTip": "..\\Clientik\\Clientik.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T13:25:05.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Clientik\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\Clientik\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:44:02.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\SuperKrestikiNoliki\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\SuperKrestikiNoliki\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:13:21.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\ServerTwo\\User.cs",
+              "RelativeDocumentMoniker": "..\\ServerTwo\\User.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\ServerTwo\\User.cs",
+              "RelativeToolTip": "..\\ServerTwo\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:09:55.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\ServerTwo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ServerTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\ServerTwo\\Program.cs",
+              "RelativeToolTip": "..\\ServerTwo\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:39:19.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayingField.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\SuperKrestikiNoliki\\PlayingField.cs",
+              "RelativeDocumentMoniker": "PlayingField.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\SuperKrestikiNoliki\\PlayingField.cs",
+              "RelativeToolTip": "PlayingField.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:36:20.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\SuperKrestikiNoliki\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\SuperKrestikiNoliki\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:27:15.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\Clientik\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\View\\MainWindow.xaml",
+              "RelativeToolTip": "..\\Clientik\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T13:26:14.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Element.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\Model\\Element.cs",
+              "RelativeDocumentMoniker": "..\\Clientik\\Model\\Element.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\Model\\Element.cs",
+              "RelativeToolTip": "..\\Clientik\\Model\\Element.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:10:13.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\NetworkTransportProtocol\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\NetworkTransportProtocol\\Class1.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\NetworkTransportProtocol\\Class1.cs",
+              "RelativeToolTip": "..\\NetworkTransportProtocol\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:58:30.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\ViewModel\\Command.cs",
+              "RelativeDocumentMoniker": "..\\Clientik\\ViewModel\\Command.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\ViewModel\\Command.cs",
+              "RelativeToolTip": "..\\Clientik\\ViewModel\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:46:42.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\App.xaml",
+              "RelativeDocumentMoniker": "..\\Clientik\\App.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\Clientik\\App.xaml",
+              "RelativeToolTip": "..\\Clientik\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T13:25:25.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NetworkTransportProtocol.csproj",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\NetworkTransportProtocol\\NetworkTransportProtocol.csproj",
+              "RelativeDocumentMoniker": "..\\NetworkTransportProtocol\\NetworkTransportProtocol.csproj",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u043A\u0443\u0440\u0441\u044B\\c#\u002Bbd\\NetworkTransportProtocol\\NetworkTransportProtocol.csproj",
+              "RelativeToolTip": "..\\NetworkTransportProtocol\\NetworkTransportProtocol.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T12:09:02.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

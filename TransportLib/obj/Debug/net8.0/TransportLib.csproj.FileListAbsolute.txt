@@ -1,0 +1,11 @@
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\bin\Debug\net8.0\TransportLib.deps.json
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\bin\Debug\net8.0\TransportLib.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\bin\Debug\net8.0\TransportLib.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\obj\Debug\net8.0\TransportLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\obj\Debug\net8.0\TransportLib.AssemblyInfoInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\obj\Debug\net8.0\TransportLib.AssemblyInfo.cs
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\obj\Debug\net8.0\TransportLib.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\obj\Debug\net8.0\TransportLib.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\obj\Debug\net8.0\refint\TransportLib.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\obj\Debug\net8.0\TransportLib.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\TransportLib\obj\Debug\net8.0\ref\TransportLib.dll

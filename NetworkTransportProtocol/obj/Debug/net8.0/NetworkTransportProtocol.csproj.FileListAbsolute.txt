@@ -1,0 +1,15 @@
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\bin\Debug\net8.0\NetworkTransportProtocol.deps.json
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\bin\Debug\net8.0\NetworkTransportProtocol.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\bin\Debug\net8.0\NetworkTransportProtocol.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\bin\Debug\net8.0\TransportLib.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\bin\Debug\net8.0\TransportLib.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\NetworkTransportProtocol.csproj.AssemblyReference.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\NetworkTransportProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\NetworkTransportProtocol.AssemblyInfoInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\NetworkTransportProtocol.AssemblyInfo.cs
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\NetworkTransportProtocol.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\NetworkT.351244BE.Up2Date
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\NetworkTransportProtocol.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\refint\NetworkTransportProtocol.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\NetworkTransportProtocol.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\курсы\c#+bd\NetworkTransportProtocol\obj\Debug\net8.0\ref\NetworkTransportProtocol.dll
